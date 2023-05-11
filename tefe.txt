@@ -1,3 +1,6 @@
 #! /bin/bash
 
-I am excited to start this journey and I am prepared to give it my best shot
+I am excited to start this journey and I am prepared to give it my best shot.
+
+
+changed it for branch sake
